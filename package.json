@@ -1,0 +1,23 @@
+{
+  "name": "cyf-node-challenges",
+  "version": "1.0.0",
+  "description": "Client-Server-Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hiba-moh/cyf-node-challenges.git"
+  },
+  "author": "Hiba & Hussien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hiba-moh/cyf-node-challenges/issues"
+  },
+  "homepage": "https://github.com/Hiba-moh/cyf-node-challenges#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
